@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Starting to grow my beard again - really looking forward to working on \"RIPA\" (Danish historical Viking series) in June '16"
-datePublished: '2016-03-31T17:33:32.393Z'
-dateModified: '2016-03-31T17:33:04.084Z'
+datePublished: '2016-03-31T17:38:36.418Z'
+dateModified: '2016-03-31T17:33:40.292Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-31-starting-to-grow-my-beard-again-really-looking-forward-to.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-starting-to-grow-my-beard-again-really-looking-forward-to.md
-published: true
 url: starting-to-grow-my-beard-again-really-looking-forward-to/index.html
 _type: Article
 
