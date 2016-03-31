@@ -1,4 +1,4 @@
-name: marcuschristensen
+name: Danish Actor Marcus Aurelius Christensen
 favicon: null
 layout_spectrum: 0.7033624502364546
 typography_spectrum: 0.4733270541764796
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.015685014659538865
-  lightness: 0.6743176686577499
+  lightness: 0.6875
   saturation: 0.9291090143378824
   rhythmicContrast: 0.9967309930361807
 purpose: []
